@@ -21,7 +21,7 @@ I'm a Full Stack Developer with 2+ years of hands-on designing, developing and i
 
 STACKS
 
-![Java](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-43853D?style=for-the-badge&logo=java&logoColor=white)
 
 <!-- Here are some ideas to get you started:
 
